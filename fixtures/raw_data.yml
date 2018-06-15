@@ -1,0 +1,32 @@
+---
+direct:
+  name: "Direct"
+  price: 100
+  affiliate: false
+  reseller: false
+a_company:
+  name: "ACompany"
+  price: 75
+  affiliate: true
+  reseller: false
+another_company:
+  name: "AnotherCompany"
+  price: 65
+  affiliate: true
+  reseller: false
+even_more_company:
+  name: "EvenMoreCompany"
+  price: 80
+  affiliate: true
+  reseller: false
+resell_this:
+  name: "ResellThis"
+  price: 75
+  affiliate: false
+  reseller: true
+sell_more_things:
+  name: "SellMoreThings"
+  price: 85
+  affiliate: false
+  reseller: true
+
